@@ -10,8 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Test package.
-	Compatibility: iOS 7.0 - iOS 15.1 </shortDescription>
+	<shortDescription><b>Test package.</b> Compatibility: <b>iOS 7.0</b> - <b>iOS 15.1</b> </shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
